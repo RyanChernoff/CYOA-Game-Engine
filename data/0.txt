@@ -1,0 +1,9 @@
+Big Text
+Button Text
+1
+backgroundColor = 0 | 0 | 0
+textColor = 0 | 20 | 190
+choiceColor = 0 | 0 | 0
+buttonColor = 100 | 100 | 255
+textAlign = center
+textSize = 130
